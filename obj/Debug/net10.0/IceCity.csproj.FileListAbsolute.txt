@@ -1,0 +1,14 @@
+G:\Cis\IceCity\bin\Debug\net10.0\IceCity.exe
+G:\Cis\IceCity\bin\Debug\net10.0\IceCity.deps.json
+G:\Cis\IceCity\bin\Debug\net10.0\IceCity.runtimeconfig.json
+G:\Cis\IceCity\bin\Debug\net10.0\IceCity.dll
+G:\Cis\IceCity\bin\Debug\net10.0\IceCity.pdb
+G:\Cis\IceCity\obj\Debug\net10.0\IceCity.GeneratedMSBuildEditorConfig.editorconfig
+G:\Cis\IceCity\obj\Debug\net10.0\IceCity.AssemblyInfoInputs.cache
+G:\Cis\IceCity\obj\Debug\net10.0\IceCity.AssemblyInfo.cs
+G:\Cis\IceCity\obj\Debug\net10.0\IceCity.csproj.CoreCompileInputs.cache
+G:\Cis\IceCity\obj\Debug\net10.0\IceCity.dll
+G:\Cis\IceCity\obj\Debug\net10.0\refint\IceCity.dll
+G:\Cis\IceCity\obj\Debug\net10.0\IceCity.pdb
+G:\Cis\IceCity\obj\Debug\net10.0\IceCity.genruntimeconfig.cache
+G:\Cis\IceCity\obj\Debug\net10.0\ref\IceCity.dll

@@ -4,9 +4,11 @@ using System.Text;
 
 namespace IceCity
 {
+    
     internal class Service1
     {
         
+
         public double CalculateTotalWorkingHours(House house)
         {
             double totalHours = 0;
@@ -25,7 +27,8 @@ namespace IceCity
                 heaterValues.Add(value.HeaterValue);
             }
             heaterValues.Sort();
-            if (heaterValues.Count % 2 == 0)
+            int count = heaterValues.Count;
+            if (count.IsEven())
             {
                 return (heaterValues[heaterValues.Count / 2 - 1] + heaterValues[heaterValues.Count / 2]) / 2.0;
             }
@@ -43,5 +46,6 @@ namespace IceCity
 
 
         }
+
     }
 }

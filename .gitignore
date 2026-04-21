@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 .vs/
 bin/
 obj/
 .dotnet/
+=======
+
+.vs/
+bin/
+obj/
+>>>>>>> a1f5756017ebc787d6c800d1a50155861c004b18
 *.user
 *.suo

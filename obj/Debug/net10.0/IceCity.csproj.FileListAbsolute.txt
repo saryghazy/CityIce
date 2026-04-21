@@ -12,3 +12,4 @@ G:\Cis\IceCity\obj\Debug\net10.0\refint\IceCity.dll
 G:\Cis\IceCity\obj\Debug\net10.0\IceCity.pdb
 G:\Cis\IceCity\obj\Debug\net10.0\IceCity.genruntimeconfig.cache
 G:\Cis\IceCity\obj\Debug\net10.0\ref\IceCity.dll
+G:\Cis\IceCity\obj\Debug\net10.0\IceCity.sourcelink.json

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace IceCity
+namespace IceCity.Enums
 {
     public enum MonthEnum
     {
